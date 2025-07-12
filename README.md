@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Hilal Muhammad</h1>
+<h1 align="center">  I'm Hilal Muhammad</h1>
 <h3 align="center">I'm a front-end developer experienced in building websites for small and medium-sized businesses</h3>
 
 ---
@@ -32,7 +32,9 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ihilalmuhammad&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ihilalmuhammad&theme=github-compact)
+
+
 
 
 
