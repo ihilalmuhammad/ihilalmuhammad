@@ -1,10 +1,8 @@
 
 <h1 align="center">  Hello 👋, I'm Hilal Muhammad.</h1>
 
----
 
 <h3 align="center">I'm a front-end developer experienced in building websites for small and medium-sized businesses</h3>
-
 
 - 🔭 I’m currently working on **JavaScript Projects**
   
@@ -13,8 +11,6 @@
 - 📫 How to reach me: **sonyboy1133@gmail.com**
   
 - ⚡ Fun fact: I 💻 code every day!
-
-
 
 ## 🏆 GitHub Trophies
 
